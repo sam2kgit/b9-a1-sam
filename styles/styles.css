@@ -7,7 +7,7 @@ body{
     font-family: 'Merriweather', serif;
 }
 
-.banner{
+header{
     
      margin: 50px auto; 
     height: 600px;
@@ -42,4 +42,36 @@ padding-left: 344px;
 padding-right: 344px;
 padding-bottom: 177px;
 padding-top: 16px;
+}
+
+.offer{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 120px;
+}
+.o2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 48px;
+}
+.ac{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 16px;
+margin-bottom: 48px;
 }
