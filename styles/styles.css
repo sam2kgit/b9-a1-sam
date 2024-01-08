@@ -131,6 +131,11 @@ margin-bottom: 142px;
 background-color: transparent;
 border: 0;
 }
+.join:hover{
+    transform: scale(1.1);
+    transition: .2s;
+    cursor: pointer;
+}
 .img{
     display: flex;
 width: 319.83px;
@@ -199,13 +204,26 @@ line-height: 32px; /* 160% */
 .lp{
     margin-right: 19px;
     margin-bottom: 19px;
+    
+}
+.lp:hover{
+    transition: .5s;
+    transform:scale(1.1);
 }
 .mp{
     margin-right: 19px;
     margin-bottom: 19px;
 }
+.mp:hover{
+    transition: .5s;
+    transform:scale(1.1);
+}
 .rp{
     margin-bottom: 19px;
+}
+.rp:hover{
+    transition: .5s;
+    transform:scale(1.1);
 }
 .newsletter{
     margin-top: 120px;
@@ -246,10 +264,6 @@ margin-bottom: 48px;
 .sub{
    max-width: 648px;
    max-height: 72px;
-   
-   
-   
-   
    margin-left: 336px;
    margin-right: 336px;
    display: flex;
@@ -287,6 +301,10 @@ font-weight: 600;
 line-height: normal;
 text-transform: capitalize;
 padding: 24px 56px 24px 56px;
+}
+#bs:hover{
+    transform: scale(1.1);
+    transition: .2s;
 }
 
 footer{
@@ -339,9 +357,9 @@ text-decoration: none;
     padding-left: 640px;
     padding-top: 98px;
     padding-right: 632px;
-    
-    
+   
 }
+
 .ll{
     display: flex;
 }
