@@ -295,15 +295,7 @@ footer{
     height: 609px;
     background: #070211;
 }
-/* .browser-icon{
-    display: flex;
-    width: 64px;
-    height: 64px;
-    gap: 24px;
-    padding: 298px 632px 247px 640px;
-    
-    
-} */
+
 .tl{
     color: #FFF;
 font-family: Inter;
@@ -338,4 +330,41 @@ font-style: normal;
 font-weight: 500;
 line-height: 40px; /* 166.667% */
 text-decoration: none;
+}
+ .browser-icon{
+    display: flex;
+    width: 64px;
+    height: 64px;
+    gap: 24px;
+    padding-left: 640px;
+    padding-top: 98px;
+    padding-right: 632px;
+    
+    
+}
+.ll{
+    display: flex;
+}
+.rights{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 140px;
+padding-top: 98px;
+padding-bottom: 120px;
+}
+.last{
+
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: 98px;
+padding-left: 880px;
+
 }
