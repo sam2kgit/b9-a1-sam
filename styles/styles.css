@@ -148,3 +148,143 @@ background-blend-mode:multiply ;
 mix-blend-mode: multiply; */
 
 }
+main{
+
+    margin: 4000px auto; 
+    /* height: 7735px; */
+    width: 1320px;
+   
+    background-color:#FFF;
+   
+    
+    
+}
+.best-gift{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.oap{
+    margin-top: 16px;
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.fr{
+    margin-top: 22px;
+    margin-bottom: 48px;
+    padding-right: 424px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+/* .row{
+    width: 424px;
+    height: 450px;
+    display: flex;
+} */
+.lp{
+    margin-right: 19px;
+    margin-bottom: 19px;
+}
+.mp{
+    margin-right: 19px;
+    margin-bottom: 19px;
+}
+.rp{
+    margin-bottom: 19px;
+}
+.newsletter{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    border-radius: 16px;
+    background-color: rgba(255, 0, 0, 0.05);
+    height: 616px;
+}
+.emailcon{
+    margin-top: 80px;
+    margin-left: 585px;
+    margin-right: 585px;
+    margin-bottom: 40px;
+}
+.sn{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: 22px;
+}
+.fre{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+margin-left: 212px;
+margin-right: 212px;
+margin-bottom: 48px;
+}
+.sub{
+   max-width: 648px;
+   max-height: 72px;
+   
+   
+   
+   
+   margin-left: 336px;
+   margin-right: 336px;
+   display: flex;
+   margin-bottom: 80px; 
+}
+.es{
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 25px 267px 25px 30px;  
+    border-top-left-radius: 50px;
+   border-bottom-left-radius: 50px; 
+   border: 0;
+   width: 438px;
+}
+#bs{
+    width: 210px;
+    border-top-right-radius: 50px;
+   border-bottom-right-radius: 50px;
+    border: 0;
+    background: #F00;
+    color: #FFF;
+
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+padding: 24px 56px 24px 56px;
+}
+
